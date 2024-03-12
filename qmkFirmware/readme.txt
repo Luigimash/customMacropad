@@ -1,0 +1,1 @@
+you can find the QMK VIAL filepath for this keyboard at C:\vialClone\vial-qmk\keyboards 

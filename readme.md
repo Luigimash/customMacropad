@@ -28,3 +28,6 @@ Some tools I used:
 ![AutoCAD Plate](/media/AUTOCAD.png)
 ![PCB in KiCAD](/media/PCB.png)
 ![KiCAD Schematic](/media/Schematic.png)
+
+## Next Steps
+- The rotary encoders are WAY too close to the keycaps, making it difficult to rotate (although it does thankfully actually rotate). They should be moved such that they are placed further away from the keycaps by at least 5mm or so. 
